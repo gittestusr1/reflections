@@ -16,4 +16,5 @@ How do the diagrams help you visualize the branch structure?
 
 Branch structure.
 
+What are the pros and cons of Git's automatic merging vs. always doing mergs manually?
 
